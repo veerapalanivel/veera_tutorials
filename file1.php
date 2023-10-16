@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-<h1>WELCOME TO FILE 1</h1>
-    <h1>file 1</h1>
+
 </body>
 </html>
